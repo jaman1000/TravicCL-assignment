@@ -7,7 +7,7 @@ public class addtest {
         @Test
         public void addtest(){
         add addition = new add();
-        assertEquals(14, add.add(5,9));
+        assertEquals(17, add.add(5,9));
 
         }
 }
